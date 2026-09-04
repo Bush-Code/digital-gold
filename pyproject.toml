@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/PLACEHOLDER/digital-gold"
+Repository = "https://github.com/Bush-Code/digital-gold"
 
 [tool.poetry]
 packages = [{ include = "digital_gold", from = "src" }]

@@ -108,7 +108,7 @@ behaviour during foreign-exchange stress.
 **Requirements:** Python 3.11–3.14 and [Poetry](https://python-poetry.org/docs/#installation).
 
 ```bash
-git clone <this repository>
+git clone https://github.com/Bush-Code/digital-gold.git
 cd digital-gold
 poetry install
 poetry run streamlit run main.py
