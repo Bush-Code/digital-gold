@@ -33,3 +33,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Local dev launcher (machine-specific absolute paths)
+.claude/
